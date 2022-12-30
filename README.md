@@ -4,6 +4,3 @@ This project was bootstrapped with `ReactJS` and all the routes has been integre
 access token which will be needed later on signing into the web application. Current user logged on the application can be get from local storage with context and be used for conditional rendering and private routes.
 
 
-### Server Code Link
-
-This section has moved here: [https://github.com/shoibaldas/atg-world-mern-server](https://github.com/shoibaldas/atg-world-mern-server)
